@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pydantic
+joblib
+pytest
+requests
+bandit
+pip-audit
+gitleaks   # if you want to run locally
+shap       # optional, for stretch explainability
+evidently  # optional model monitoring
